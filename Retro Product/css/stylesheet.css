@@ -213,7 +213,7 @@ main {
     border-radius: 3px;
 }
 .product-plate {
-    border: 2px dotted #C58E96;
+    border: 4px dotted #C58E96;
 }
 .product-plate p {
     color: #0e0e0e;
@@ -224,7 +224,7 @@ main {
     font-weight: bold; /*Bold the names*/
     color: #632832;
 }
-.product-plate a img {
+.product-plate img {
     width: 100%;
     height: auto;
     z-index: 1;
